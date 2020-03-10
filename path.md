@@ -7,7 +7,7 @@
 #### Templates
 
 * Layout
- * do the basic layout
+ * do the basic layout ./
  * focus on footer
  * focus on body
  * focus on header

@@ -4,4 +4,42 @@ html {
 
 body {
     margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 160%;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+a {
+    color: #0065b3
+}
+
+a:hover {
+    color: dodgerblue
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 0;
+    font-size: .875rem;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+li span {
+    display: block;
+    padding-left: 16px;
+    cursor: pointer;
 }
